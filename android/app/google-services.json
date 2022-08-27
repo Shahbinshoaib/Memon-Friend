@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13858256787",
+    "project_id": "memon-friend",
+    "storage_bucket": "memon-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13858256787:android:de15a19feaf0febb2a1a66",
+        "android_client_info": {
+          "package_name": "com.memon.memon_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13858256787-iav4sdlphob2aaoah3t8r4pnojabadu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8Yujdh3aIg3iUZ3DVDH9YusRgG57EGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13858256787-iav4sdlphob2aaoah3t8r4pnojabadu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
